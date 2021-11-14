@@ -23,8 +23,8 @@ Una vez realizado todos estos pasos, **habrás enlazado tu cuenta de Steam corre
 
 ## Verificación del Usuario
 Teniendo tu cuenta de Discord **enlazada con Steam**, ahora **tendrás que verificar tu cuenta de Discord:**
-- Dirígete a [esta página web](https://gmodrepublic.es/verificar/).
-- Pulsa `Verificar Cuenta` en la esquina superior derecha.
+- Dirígete a [esta página web](https://cosanostrarp.ga/verificar/).
+- Pulsa `Verificar Cuenta`.
 
 ![](./img/5.jpg)
 

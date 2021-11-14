@@ -5,5 +5,5 @@ Está página web ha sido creado por nosotros para ayudar a que la comunidad ent
 Aquí encontrarás información de utilidad para poder jugar al servidor adecuadamente:
 - **Nombre del Servidor:** [ESP] Cosa Nostra DarkRP
 - **IP del Servidor:** Próximamente
-- **Discord de la Comunidad:** https://discord.gg/7xBcFq7
+- **Discord de la Comunidad:** https://discord.gg/cpD5erGhpz
 - **Web del Servidor:** Próximamente
